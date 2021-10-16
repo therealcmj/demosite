@@ -1,0 +1,7 @@
+fdk
+oci
+uvloop
+oauthlib
+requests
+requests_oauthlib
+PyJWT
